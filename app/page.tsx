@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import GetStartedButton from "#/app/components/GetStartedButton";
+import GetStartedButton from "#/components/GetStartedButton";
 
 export default function Home() {
   return (
